@@ -9,8 +9,8 @@
 <table border=1>
 	<thead><tr>
 		<th>ID</th>
-		<th>Name</th>
-		<th>Email</th>
+		<th>name</th>
+		<th>email</th>
 	</tr></thead>
 	<c:forEach var="employee" items="${employees.employees}">
 	<tr>
