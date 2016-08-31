@@ -8,7 +8,7 @@
 <body>
 <table border=1>
 	<thead><tr>
-		<th>ID</th>
+		<th>id</th>
 		<th>Name</th>
 		<th>Email</th>
 	</tr></thead>
